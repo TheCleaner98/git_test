@@ -1,1 +1,2 @@
 #git_test
+agregando un diferentes idiomas usando solo js
